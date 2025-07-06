@@ -1,6 +1,6 @@
-<!-- Ferrari Banner -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100%" alt="Ferrari Banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Welcome banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Enver Tuna Sönmez</h1>
@@ -23,7 +23,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/envertunasonmez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:etsonmez01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://envertunasonmez.com" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
@@ -51,3 +50,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=envertunasonmez&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
+---
+
+### 🧠 Fun Fact
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
